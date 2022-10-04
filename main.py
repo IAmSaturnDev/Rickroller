@@ -6,4 +6,6 @@ mixer.music.load("rickroll.wav")
 
 while True:
     mixer.music.play()
+    print("Get rickrolled")
     time.sleep(7)
+    
